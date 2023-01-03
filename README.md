@@ -4,7 +4,7 @@ I am currently working as a senior analyst IT at Equinor ASA in Norway.
 
 Before that I was a postdoctoral researcher at the Institute for Parallel and Distributed Systems at the University of Stuttgart. As part of my work, I was a member of the collaborative research center [SFB1313](https://www.sfb1313.uni-stuttgart.de/) where I worked on efficient parallel black-box coupling methods for porous-medium applications. This work included studying, developing, implementing and evaluating of numerical methods. I love to learn new things, solve (hard) problems, and interdisciplinary work.
 
-Some of my work you can find online here on GitHub. I am also one of the original developers of a [DuMuX-preCICE adapter](https://github.com/precice/dumux-adapter). I am passionate about good and sustainable software engineering. Consequently, Benjamin Uekermann [:octocat:](https://github.com/uekerman/uekerman), Ishaan Desai [:octocat:](https://github.com/IshaanDesai) and I have developed a new course called [Simulation Software Engineering](https://simulation-software-engineering.github.io/homepage/).
+Some of my work you can find online here on GitHub. I am also one of the original developers of a [DuMuX-preCICE adapter](https://github.com/precice/dumux-adapter). I am passionate about good and sustainable software engineering. Consequently, Benjamin Uekermann [:octocat:](https://github.com/uekerman), Ishaan Desai [:octocat:](https://github.com/IshaanDesai) and I have developed a new course called [Simulation Software Engineering](https://simulation-software-engineering.github.io/homepage/).
 
 If you are interested more in my work or research, please checkout my homepage <https://jaust.net/>, the links on the homepage or contact me.
 
